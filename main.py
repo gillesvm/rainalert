@@ -10,7 +10,7 @@ API_KEY = "" # hidden
 owm_endpoint = "https://api.openweathermap.org/data/2.5/forecast"
 
 #twilio info
-account_sid = "AC8fc19b5a484eb1e1cd281854bd611157"
+account_sid = "" # hidden
 auth_token = "" # hidden
 
 parameters = {
